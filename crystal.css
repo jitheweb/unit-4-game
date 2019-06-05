@@ -1,0 +1,80 @@
+html {
+    box-sizing: border-box;
+}
+
+body {
+    min-height: 980px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+}
+
+h3 {
+    margin: 20px 0px 10px 0px;
+    letter-spacing: 3px;
+}
+
+.header {
+    padding: 70px 0px 0px 0px;
+    color: grey;
+}
+
+h1,
+h3,
+#magicNumber,
+#totalScore,
+#wins,
+#losses,
+.score {
+    color: black;
+}
+
+h1 {
+    color: black;
+    margin: 0px 0px 75px 0px;
+    letter-spacing: 12px;
+}
+
+.crystalimg {
+    width: 150px;
+    margin: 30px auto;
+}
+
+.directions {
+    color: black;
+    text-align: center;
+    padding: 20px 85px;
+}
+
+.score {
+    padding-top: 30px;
+    margin-bottom: 0;
+    font-size: 22px;
+    font-weight: 600;
+    letter-spacing: 3px;
+}
+
+/*.directions {
+	
+}*/
+
+#winOrLose {
+    color: #9343da;
+}
+
+.total,
+.scores,
+.directions {
+    margin: auto;
+}
+
+.btn {
+    margin-left: auto;
+    margin-right: auto;
+    color: white;
+    letter-spacing: 3px;
+}
+
+p {
+    font-size: 25px;
+}
